@@ -1,0 +1,53 @@
+body {
+    font-family: 'Open Sans';
+    font-weight: 300;
+    color: #4D4D4D;
+    font-size: 15px;
+    line-height: 1.6rem;
+}
+
+P {
+    text-align: justify;
+}
+
+a {
+    color: #ccc;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #DD5555;
+    text-decoration: none;
+}
+
+table {
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 1.5rem;
+}
+.navbar {
+    height: 40px;
+    width: 900px;
+    color: #1E8CC5;
+    background-color: #1E8CC5;
+    transform: translate(43%, 10%);
+}
+
+.img-profile{
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+}
+.text {
+    font-weight: 300;
+    color: #FFFFFF;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text-navbar {
+    transform: translate(2%, 40%);
+}
+.text-navbar-end {
+    transform: translate(88%, -160%);
+}
